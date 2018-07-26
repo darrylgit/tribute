@@ -1,0 +1,55 @@
+body {
+  background-color: #2A3B2C;
+}
+
+#mainTitle {
+  font-size: 90px;
+  font-color: #1E211E;
+  font-family: Anton, sans-serif;
+}
+
+h3 {
+  font-size: 48px;
+  margin-top: -12px;
+  font-color: #1E211E;
+  font-family: Verdana;
+  
+}
+
+#mainContent {
+  background-color: #CEDED1;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: #A3A8A4;
+  border-style: solid;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+.lil-green-border {
+  border-color: #1E3320;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+p {
+  font-size: 18px;
+  font-family: Verdana;
+  font-color: #1E211E;
+  padding-left: 10px;
+}
+
+#moreInfo {
+ font-size: 1.375em;
+ padding-top: 8px;
+ padding-bottom: 10px;
+ padding-left: 0px
+}
+
+
+
